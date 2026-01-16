@@ -1,0 +1,201 @@
+Client_ID,Sector,Country,Loan_Amount_USD,Environmental_Risk,Social_Risk,HSE_Compliance,ESAP_Status,Green_Finance_Tag,E_Risk_Score,S_Risk_Score,Total_ESG_Risk_Score,High_Risk_Flag
+C001,Construction,Uganda,2214367,Medium,Low,Yes,Not Started,Yes,2,1,3,No
+C002,Services,Tanzania,1954050,Low,Medium,No,Not Started,Yes,1,2,3,No
+C003,Energy,Kenya,194356,High,Low,Yes,Closed,No,3,1,4,No
+C004,Services,Kenya,4448165,High,Low,Yes,In Progress,No,3,1,4,No
+C005,Services,Rwanda,3149320,Medium,Medium,Yes,Not Started,Yes,2,2,4,No
+C006,Manufacturing,Tanzania,405612,Medium,Low,Yes,Closed,No,2,1,3,No
+C007,Energy,DRC,3650333,Low,Low,Yes,Closed,Yes,1,1,2,No
+C008,Energy,Tanzania,59435,High,Low,Yes,Closed,No,3,1,4,No
+C009,Energy,Rwanda,4691860,Medium,Low,Yes,Closed,No,2,1,3,No
+C010,Services,Rwanda,1798014,Low,High,No,Not Started,No,1,3,4,No
+C011,Construction,Tanzania,3771309,High,Low,No,In Progress,No,3,1,4,No
+C012,Energy,Rwanda,4323085,High,High,Yes,Closed,No,3,3,6,Yes
+C013,Services,Tanzania,2338627,High,Low,Yes,In Progress,No,3,1,4,No
+C014,Manufacturing,Uganda,814121,Medium,Medium,Yes,Not Started,No,2,2,4,No
+C015,Construction,Tanzania,1219748,Medium,Medium,Yes,Closed,Yes,2,2,4,No
+C016,Manufacturing,Tanzania,3552630,Medium,Medium,Yes,Not Started,No,2,2,4,No
+C017,Construction,Rwanda,2632115,High,Low,Yes,Not Started,No,3,1,4,No
+C018,Services,Rwanda,1157677,High,Low,Yes,In Progress,No,3,1,4,No
+C019,Agribusiness,Kenya,338790,Low,Low,Yes,In Progress,No,1,1,2,No
+C020,Construction,Kenya,2694489,Low,High,Yes,In Progress,No,1,3,4,No
+C021,Manufacturing,Uganda,1458836,Low,High,Yes,Not Started,No,1,3,4,No
+C022,Services,Kenya,1691249,High,High,No,Closed,No,3,3,6,Yes
+C023,Construction,Tanzania,4894723,High,Low,No,Not Started,Yes,3,1,4,No
+C024,Agribusiness,Rwanda,3743305,Low,Medium,Yes,Not Started,Yes,1,2,3,No
+C025,Agribusiness,Kenya,4516271,Medium,High,No,Closed,Yes,2,3,5,Yes
+C026,Energy,Kenya,4435536,Low,Low,Yes,Closed,Yes,1,1,2,No
+C027,Energy,Uganda,1402695,High,Low,No,Closed,No,3,1,4,No
+C028,Manufacturing,Uganda,2156692,High,Medium,No,Closed,Yes,3,2,5,Yes
+C029,Construction,Tanzania,1639228,High,Medium,Yes,In Progress,No,3,2,5,Yes
+C030,Construction,Rwanda,3593555,Medium,High,Yes,In Progress,No,2,3,5,Yes
+C031,Energy,Uganda,2699103,Medium,Low,Yes,Not Started,Yes,2,1,3,No
+C032,Construction,Kenya,1150567,Low,Medium,Yes,In Progress,No,1,2,3,No
+C033,Construction,Rwanda,2335903,Low,Low,Yes,In Progress,No,1,1,2,No
+C034,Agribusiness,Rwanda,3882065,High,Low,Yes,Not Started,No,3,1,4,No
+C035,Energy,Kenya,4863296,High,Low,Yes,Closed,No,3,1,4,No
+C036,Services,Uganda,99115,High,High,No,In Progress,No,3,3,6,Yes
+C037,Energy,Kenya,3387690,High,Medium,No,Not Started,Yes,3,2,5,Yes
+C038,Services,Rwanda,771747,Medium,Medium,Yes,Not Started,No,2,2,4,No
+C039,Agribusiness,DRC,4780530,Medium,Low,Yes,In Progress,No,2,1,3,No
+C040,Manufacturing,DRC,3099851,High,High,Yes,Not Started,No,3,3,6,Yes
+C041,Construction,Tanzania,2873100,High,Low,Yes,Closed,Yes,3,1,4,No
+C042,Agribusiness,Kenya,3034626,Low,High,No,In Progress,No,1,3,4,No
+C043,Construction,Kenya,1454330,Medium,Low,Yes,In Progress,Yes,2,1,3,No
+C044,Manufacturing,Tanzania,301492,Low,Low,Yes,In Progress,Yes,1,1,2,No
+C045,Manufacturing,Tanzania,4085851,High,Low,Yes,Closed,No,3,1,4,No
+C046,Agribusiness,Tanzania,541072,Medium,Low,Yes,In Progress,No,2,1,3,No
+C047,Manufacturing,Rwanda,1136880,Low,Medium,Yes,In Progress,No,1,2,3,No
+C048,Services,Kenya,4749303,Medium,Medium,No,In Progress,No,2,2,4,No
+C049,Manufacturing,Rwanda,4575897,Medium,Low,Yes,Not Started,No,2,1,3,No
+C050,Construction,Tanzania,2105723,Low,High,Yes,Closed,No,1,3,4,No
+C051,Construction,Kenya,2298988,Low,Low,Yes,Closed,No,1,1,2,No
+C052,Construction,Rwanda,4353244,Medium,Medium,No,In Progress,No,2,2,4,No
+C053,Construction,Rwanda,1364093,Medium,High,No,Closed,No,2,3,5,Yes
+C054,Services,Tanzania,2814673,Medium,Medium,Yes,Closed,Yes,2,2,4,No
+C055,Energy,Kenya,3026242,Medium,Low,Yes,Closed,No,2,1,3,No
+C056,Agribusiness,Tanzania,4630081,High,High,Yes,Closed,No,3,3,6,Yes
+C057,Construction,Kenya,2698790,Medium,Medium,Yes,In Progress,No,2,2,4,No
+C058,Manufacturing,DRC,3813024,Medium,Low,No,In Progress,No,2,1,3,No
+C059,Construction,Uganda,2696791,High,Low,Yes,In Progress,No,3,1,4,No
+C060,Manufacturing,Uganda,2760108,Medium,Medium,Yes,Closed,No,2,2,4,No
+C061,Manufacturing,Uganda,4883177,Low,Medium,Yes,Not Started,No,1,2,3,No
+C062,Construction,Tanzania,3403597,Low,Medium,Yes,Closed,No,1,2,3,No
+C063,Services,DRC,115953,Medium,High,Yes,Closed,No,2,3,5,Yes
+C064,Manufacturing,Kenya,4039618,Medium,Medium,Yes,Not Started,No,2,2,4,No
+C065,Manufacturing,Rwanda,2647480,Medium,Low,Yes,Closed,No,2,1,3,No
+C066,Construction,Kenya,4247571,Low,Low,Yes,Not Started,Yes,1,1,2,No
+C067,Manufacturing,Rwanda,2972097,Low,Low,Yes,In Progress,No,1,1,2,No
+C068,Manufacturing,Kenya,207164,Low,Medium,Yes,Closed,No,1,2,3,No
+C069,Construction,DRC,4779930,Low,Low,Yes,Not Started,No,1,1,2,No
+C070,Construction,Rwanda,2278636,Medium,Medium,Yes,Closed,Yes,2,2,4,No
+C071,Agribusiness,Tanzania,581831,Low,Medium,Yes,Closed,No,1,2,3,No
+C072,Services,Kenya,3039475,Medium,High,Yes,In Progress,No,2,3,5,Yes
+C073,Services,Kenya,3256420,High,Low,Yes,Not Started,Yes,3,1,4,No
+C074,Manufacturing,Rwanda,3415884,Low,High,Yes,Not Started,Yes,1,3,4,No
+C075,Services,Tanzania,3419720,Medium,Low,Yes,In Progress,No,2,1,3,No
+C076,Manufacturing,Tanzania,4761075,Medium,High,No,Closed,Yes,2,3,5,Yes
+C077,Agribusiness,DRC,2690328,Low,Low,Yes,In Progress,No,1,1,2,No
+C078,Construction,Tanzania,741095,Medium,Low,Yes,Not Started,No,2,1,3,No
+C079,Construction,Tanzania,883727,High,Medium,Yes,In Progress,Yes,3,2,5,Yes
+C080,Construction,Tanzania,1212928,High,Low,Yes,In Progress,No,3,1,4,No
+C081,Services,Uganda,2233151,Low,Low,Yes,Closed,No,1,1,2,No
+C082,Agribusiness,DRC,3213683,High,Medium,Yes,Not Started,No,3,2,5,Yes
+C083,Services,Kenya,4020001,Medium,Medium,Yes,Closed,No,2,2,4,No
+C084,Services,Rwanda,120640,Low,Medium,Yes,In Progress,No,1,2,3,No
+C085,Agribusiness,Kenya,4440886,Medium,Medium,Yes,Closed,Yes,2,2,4,No
+C086,Agribusiness,DRC,2050991,High,Medium,No,In Progress,No,3,2,5,Yes
+C087,Agribusiness,Rwanda,4172263,Medium,Low,Yes,In Progress,No,2,1,3,No
+C088,Agribusiness,DRC,4644877,Low,Low,Yes,Closed,No,1,1,2,No
+C089,Construction,Tanzania,4305780,Medium,Low,Yes,Not Started,No,2,1,3,No
+C090,Energy,Rwanda,1405531,Low,High,Yes,Closed,No,1,3,4,No
+C091,Energy,Tanzania,725510,Low,Medium,Yes,In Progress,No,1,2,3,No
+C092,Agribusiness,Kenya,3791196,Low,Low,Yes,Not Started,Yes,1,1,2,No
+C093,Energy,Kenya,2784296,Low,Low,Yes,In Progress,No,1,1,2,No
+C094,Energy,Rwanda,3381869,Low,High,No,Closed,No,1,3,4,No
+C095,Agribusiness,Rwanda,948320,Low,Low,No,Not Started,Yes,1,1,2,No
+C096,Energy,DRC,4879040,Medium,Medium,Yes,In Progress,Yes,2,2,4,No
+C097,Services,DRC,2057635,Low,Medium,Yes,In Progress,Yes,1,2,3,No
+C098,Manufacturing,Tanzania,1276607,Low,Medium,Yes,In Progress,No,1,2,3,No
+C099,Manufacturing,Rwanda,4113960,High,Low,Yes,Not Started,No,3,1,4,No
+C100,Agribusiness,Kenya,3314908,Medium,High,Yes,Closed,No,2,3,5,Yes
+C101,Construction,DRC,4310538,Medium,High,No,Closed,No,2,3,5,Yes
+C102,Agribusiness,DRC,1662818,Low,Medium,Yes,Closed,Yes,1,2,3,No
+C103,Construction,Kenya,2325504,Low,Medium,No,Closed,No,1,2,3,No
+C104,Manufacturing,DRC,3275187,Low,High,Yes,Not Started,No,1,3,4,No
+C105,Agribusiness,Tanzania,4654299,Low,Medium,Yes,Closed,Yes,1,2,3,No
+C106,Services,Rwanda,4710456,Low,Low,Yes,Not Started,Yes,1,1,2,No
+C107,Energy,Kenya,4148502,Low,Medium,No,Not Started,Yes,1,2,3,No
+C108,Construction,Rwanda,3671581,Low,Medium,Yes,In Progress,No,1,2,3,No
+C109,Energy,DRC,4296238,Low,Low,No,In Progress,No,1,1,2,No
+C110,Energy,DRC,475523,Medium,Medium,Yes,Closed,No,2,2,4,No
+C111,Agribusiness,Kenya,3649865,Low,High,Yes,In Progress,No,1,3,4,No
+C112,Energy,Tanzania,4249790,Low,High,No,In Progress,No,1,3,4,No
+C113,Services,Uganda,1089458,Medium,Low,Yes,Not Started,No,2,1,3,No
+C114,Energy,Kenya,3822811,Medium,Low,Yes,Closed,No,2,1,3,No
+C115,Agribusiness,Uganda,2367336,Low,High,Yes,In Progress,Yes,1,3,4,No
+C116,Services,Uganda,4210435,Medium,High,No,In Progress,Yes,2,3,5,Yes
+C117,Manufacturing,Tanzania,2813642,Medium,Low,No,Not Started,No,2,1,3,No
+C118,Energy,Uganda,1859891,Low,High,Yes,Closed,Yes,1,3,4,No
+C119,Agribusiness,Uganda,3838340,High,High,Yes,In Progress,No,3,3,6,Yes
+C120,Manufacturing,Tanzania,2469862,High,Medium,No,Not Started,No,3,2,5,Yes
+C121,Manufacturing,Uganda,247775,Low,Medium,Yes,Not Started,Yes,1,2,3,No
+C122,Construction,Uganda,2436488,Low,Low,Yes,In Progress,Yes,1,1,2,No
+C123,Services,Uganda,837494,High,Low,No,In Progress,No,3,1,4,No
+C124,Energy,Kenya,1251193,Medium,Low,Yes,Not Started,No,2,1,3,No
+C125,Agribusiness,Kenya,3993334,Low,High,Yes,Closed,No,1,3,4,No
+C126,Construction,Kenya,3059758,Low,Low,Yes,Not Started,No,1,1,2,No
+C127,Services,Tanzania,583636,Low,Low,No,In Progress,Yes,1,1,2,No
+C128,Construction,DRC,3088370,Medium,Low,No,Closed,Yes,2,1,3,No
+C129,Services,Uganda,4282406,Medium,Medium,No,In Progress,No,2,2,4,No
+C130,Services,Uganda,4318764,Low,High,Yes,In Progress,No,1,3,4,No
+C131,Energy,Tanzania,3285658,Medium,Low,No,In Progress,Yes,2,1,3,No
+C132,Services,Uganda,1826203,Medium,Low,No,Not Started,No,2,1,3,No
+C133,Construction,Kenya,2326360,Low,Medium,Yes,Closed,No,1,2,3,No
+C134,Services,DRC,4458249,Low,Low,No,In Progress,No,1,1,2,No
+C135,Energy,Rwanda,4476219,Medium,Low,Yes,Closed,No,2,1,3,No
+C136,Energy,Uganda,2584629,High,Low,Yes,Not Started,No,3,1,4,No
+C137,Construction,Kenya,575830,Medium,Low,Yes,Not Started,No,2,1,3,No
+C138,Manufacturing,Rwanda,1382397,Medium,Low,Yes,Not Started,No,2,1,3,No
+C139,Manufacturing,DRC,2186233,Low,Low,Yes,In Progress,Yes,1,1,2,No
+C140,Services,Rwanda,768216,Medium,Low,Yes,In Progress,Yes,2,1,3,No
+C141,Agribusiness,Kenya,567313,Medium,High,Yes,Closed,No,2,3,5,Yes
+C142,Services,Rwanda,3715060,Low,Low,Yes,In Progress,No,1,1,2,No
+C143,Construction,Tanzania,3512565,Low,Medium,Yes,Closed,Yes,1,2,3,No
+C144,Construction,Rwanda,1387682,Low,Medium,Yes,Not Started,No,1,2,3,No
+C145,Construction,Uganda,1336643,Low,Low,Yes,Closed,No,1,1,2,No
+C146,Construction,Uganda,1583584,Low,Medium,No,Closed,Yes,1,2,3,No
+C147,Construction,Tanzania,444540,Low,Low,Yes,Closed,No,1,1,2,No
+C148,Energy,Kenya,2665075,Low,High,Yes,Closed,No,1,3,4,No
+C149,Manufacturing,Uganda,4989003,Low,Low,No,Closed,No,1,1,2,No
+C150,Construction,DRC,4492987,High,Low,Yes,In Progress,Yes,3,1,4,No
+C151,Agribusiness,Uganda,76790,Medium,Low,Yes,Not Started,No,2,1,3,No
+C152,Agribusiness,Uganda,1741738,Medium,High,Yes,Not Started,No,2,3,5,Yes
+C153,Agribusiness,Kenya,2958873,Medium,Medium,No,Closed,No,2,2,4,No
+C154,Agribusiness,Rwanda,498345,Medium,Medium,Yes,In Progress,No,2,2,4,No
+C155,Energy,Uganda,799074,Low,Low,No,Closed,No,1,1,2,No
+C156,Agribusiness,Tanzania,3735501,Medium,Medium,Yes,In Progress,No,2,2,4,No
+C157,Construction,Rwanda,1929490,Medium,Low,No,Not Started,No,2,1,3,No
+C158,Services,DRC,3937857,Medium,High,No,Not Started,No,2,3,5,Yes
+C159,Agribusiness,Kenya,3226083,Medium,Low,No,In Progress,Yes,2,1,3,No
+C160,Energy,DRC,1504908,Low,Low,Yes,In Progress,No,1,1,2,No
+C161,Energy,Rwanda,2303694,Low,Low,No,Not Started,No,1,1,2,No
+C162,Agribusiness,Rwanda,3369144,Low,Low,Yes,In Progress,No,1,1,2,No
+C163,Services,Rwanda,355062,Medium,Medium,Yes,Not Started,Yes,2,2,4,No
+C164,Agribusiness,DRC,4999499,Medium,Low,Yes,In Progress,No,2,1,3,No
+C165,Energy,Rwanda,2437312,Low,Medium,No,Not Started,No,1,2,3,No
+C166,Manufacturing,DRC,3743976,High,Low,No,Closed,No,3,1,4,No
+C167,Construction,Rwanda,4458224,Medium,Medium,No,In Progress,Yes,2,2,4,No
+C168,Energy,Tanzania,4085493,Low,Low,Yes,In Progress,No,1,1,2,No
+C169,Agribusiness,Rwanda,3438532,Low,Low,Yes,Not Started,No,1,1,2,No
+C170,Construction,DRC,1475541,Low,Medium,Yes,Not Started,Yes,1,2,3,No
+C171,Agribusiness,Uganda,1921403,Low,Low,Yes,In Progress,No,1,1,2,No
+C172,Agribusiness,Rwanda,4898287,Low,Low,Yes,In Progress,No,1,1,2,No
+C173,Manufacturing,Uganda,871052,Low,High,Yes,In Progress,No,1,3,4,No
+C174,Construction,Tanzania,1857150,Low,High,Yes,Not Started,No,1,3,4,No
+C175,Construction,Kenya,2275300,Low,Low,Yes,In Progress,No,1,1,2,No
+C176,Manufacturing,Tanzania,1905567,High,Low,Yes,Closed,No,3,1,4,No
+C177,Energy,Rwanda,1584837,Low,Medium,Yes,Closed,No,1,2,3,No
+C178,Agribusiness,Uganda,3551268,Medium,Low,Yes,Not Started,No,2,1,3,No
+C179,Services,Uganda,3388442,Medium,Low,No,In Progress,No,2,1,3,No
+C180,Agribusiness,DRC,4976203,High,Low,Yes,Not Started,No,3,1,4,No
+C181,Agribusiness,Uganda,4504051,Low,Medium,Yes,Not Started,No,1,2,3,No
+C182,Energy,DRC,4859954,Low,Medium,Yes,Closed,No,1,2,3,No
+C183,Agribusiness,Kenya,473570,High,Low,Yes,Not Started,No,3,1,4,No
+C184,Manufacturing,Rwanda,2423139,High,Low,No,In Progress,No,3,1,4,No
+C185,Manufacturing,DRC,908158,High,Low,No,In Progress,No,3,1,4,No
+C186,Construction,Kenya,2164792,Low,Medium,Yes,Closed,Yes,1,2,3,No
+C187,Services,Uganda,102528,Low,Low,Yes,In Progress,No,1,1,2,No
+C188,Agribusiness,Uganda,1923421,Medium,Low,No,Not Started,Yes,2,1,3,No
+C189,Agribusiness,Kenya,2648260,High,Medium,No,In Progress,No,3,2,5,Yes
+C190,Energy,Uganda,1467077,Medium,Low,Yes,In Progress,No,2,1,3,No
+C191,Manufacturing,Kenya,3345887,Medium,Medium,Yes,Not Started,No,2,2,4,No
+C192,Services,DRC,3368230,Low,Low,Yes,In Progress,No,1,1,2,No
+C193,Construction,DRC,2302728,Medium,Low,No,Not Started,No,2,1,3,No
+C194,Manufacturing,Kenya,2535195,Low,Low,Yes,Not Started,No,1,1,2,No
+C195,Construction,DRC,4310507,Low,Medium,No,In Progress,Yes,1,2,3,No
+C196,Energy,DRC,210775,Medium,High,Yes,Not Started,No,2,3,5,Yes
+C197,Energy,DRC,2717867,Medium,High,Yes,In Progress,Yes,2,3,5,Yes
+C198,Agribusiness,Tanzania,1613299,Low,Low,Yes,In Progress,Yes,1,1,2,No
+C199,Services,Rwanda,3519401,Low,Medium,Yes,Closed,No,1,2,3,No
+C200,Construction,Uganda,3825803,Medium,Low,Yes,Not Started,No,2,1,3,No
