@@ -100,5 +100,10 @@ Google Colab
 
 CSV-based data modelling
 
-By Faith N. Weyombo - Financial and Data Analyst 
+## Disclaimer
+
+This project is an independent analytical simulation created for learning and portfolio demonstration purposes.
+It does not use proprietary data and does not represent any institution’s internal models or confidential processes.
+
+# By Faith N. Weyombo - Financial and Data Analyst 
 
