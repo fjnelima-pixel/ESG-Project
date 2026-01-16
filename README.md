@@ -10,12 +10,14 @@ The analysis simulates Environmental & Social Due Diligence (ESDD), ESG risk sco
 The project is designed to reflect practical ESG processes used by banks and DFIs, rather than corporate disclosure scoring.
 
 ## Business Context
+
 Banks operating across multiple countries face increasing expectations to:
+
 -Integrate environmental and social risk assessments into credit decisions
 
-- Track and close Environmental and Social Action Plans (ESAPs)
+-Track and close Environmental and Social Action Plans (ESAPs)
 
-- Monitor portfolio-level ESG risk exposure
+-Monitor portfolio-level ESG risk exposure
   
 -Identify and scale climate and green finance opportunities
 
@@ -35,6 +37,7 @@ This project mirrors how ESG and Sustainability teams support these objectives u
 
 The analysis uses a synthetic loan portfolio dataset, designed to reflect real banking ESRM workflows without exposing confidential data.
 Key variables include:
+
 -Client sector and country
 
 -Loan amount
